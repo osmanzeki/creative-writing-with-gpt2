@@ -1,2 +1,9 @@
 runs
 models
+
+__pycache__
+*.pyc
+
+.DS_STORE
+._.DS_Store
+__MACOSX
